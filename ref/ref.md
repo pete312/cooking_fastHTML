@@ -1,0 +1,16 @@
+# Various blogs list ref [vijesh discord]
+
+* [https://www.answer.ai/](https://www.answer.ai/)
+* [https://daniel.feldroy.com/](https://daniel.feldroy.com/)
+* [https://johnowhitaker.dev/](https://johnowhitaker.dev/)
+* [https://audrey.feldroy.com/](https://audrey.feldroy.com/)
+* [https://erikgaasedelen.com/](https://erikgaasedelen.com/)
+* [https://simn.fr/posts](https://simn.fr/posts)
+* [https://drchrislevy--drchrislevy-serve.modal.run/blog/](https://drchrislevy--drchrislevy-serve.modal.run/blog/)
+* [https://www.blog.efels.com/](https://www.blog.efels.com/)
+* [https://blog.mariusvach.com/](https://blog.mariusvach.com/)
+* [https://galopyz.github.io/delicious-nbdev/blog/](https://galopyz.github.io/delicious-nbdev/blog/)
+* [https://www.drewecherd.com/](https://www.drewecherd.com/)
+* [https://blog-production-311c.up.railway.app/](https://blog-production-311c.up.railway.app/)
+* [https://www.drewecherd.com/](https://www.drewecherd.com/)
+* [https://carlo.ai/](https://carlo.ai/)
