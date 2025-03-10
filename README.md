@@ -22,21 +22,25 @@ MonsterUI
 
 1. [design concerns intro](/design/intro.md)
 1. project structure
-    * configs
-    * static elements
-    * tests
-    * UI code.
+    1. configs
+    1. static elements
+    1. tests
+    1. UI code.
         1. routes.
-            * how to build apps with routes in different files.
-    * data code
+            1. how to build apps with routes in different files.
+        1. menus 
+            1. [Context Menus](/src/context_menu.md)
+    1. data code
         1. cookies
         1. db structures (models)
         1. transfrer structures (schemas)
         1. logic indexers
 
-1. web tech stack
-    1. Server Side Events [sse](/src/sse.md)
-    1. [Context Menus](/src/context_menu.md) 
+---
+
+* Unorganized HOWTOs
+    * [Server Side Events](/src/sse.md)
+    
 
 
 
