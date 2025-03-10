@@ -13,18 +13,21 @@ You have a project with no idea of how to solve it yet, but to prevent a rewrite
 
 
 1. hello world or one file tests need no structure externally.
-    * except virtual env. read [virtual env considerations](#)
+    1. except virtual env. read [virtual env considerations](#)
 1. A one file utility may need one of tests, config, packaging
-1. Consider how to make the directory structues for:
-    1. source code (src)
-        * entry points
-        * 
+1. Consider how to make the directory structues to scale if needed:
+    1. organizing source code into groups. what directory to put them in for the system:
+        1. utility scripts (CLI) like db migration, data integerity, process managment
+        1. data services dealing with caching, messaging, joining data, webAPI etc 
+        1. interfaces to external resources, database, gdrive, mail, etc
+        1. user interfaces, shell, web, documentation, email etc
     1. configs (files and environments)
-    1. tests
+    1. tests code
+    1. how to handle system uitilities like cron, docker or podman, systemd, supervisord, pypi packaging
 
 # recomendations
 
-Use a basic modular pattern for the directory structure so you do less restructuring no matter how big it gets.
+Use a basic modular pattern for the directory structure. If it grows you do less restructuring no matter how big it gets.
 
 Example template: add subtract what you need
 
