@@ -1,13 +1,13 @@
-# explore_fastHTML
-explore_fastHTML Mission Statement
+# cooking_fastHTML
+cooking_fastHTML Mission Statement
 
 
-[FastHtml](https://fastht.ml/) with [Starlette](https://www.starlette.io/), [HTMX](https://htmx.org/), [Datastar](https://data-star.dev/), all have workflows that can be challanging to understand if you have learned classic single page app. explore_fastHTML's mission is to list coding patterns from differnt sources and develop them so they can be quickly applied to a project.
+[FastHtml](https://fastht.ml/) with [Starlette](https://www.starlette.io/), [HTMX](https://htmx.org/), [Datastar](https://data-star.dev/), all have workflows that can be challanging to understand if you have learned classic single page app. cooking_fastHTML's mission is to list coding patterns in stripped down to the point snipits that is easy to find.  These either originate from AI, self or other doc or example blogs.
 
 ### Links and code
-Links get broken so all examples from other sites will be copied locally with an initial ref link. The example will be cut to the minimn needed to explain the process. The example will evolve over time and may have no resembelence to the original code. Ownership of the code is always considered public domain under MIT.
+Links get broken so all examples from other sites will be copied locally with an initial ref link to credit the authors. The example will be cut to the minimn needed to explain the process. The example will evolve over time and may have no resembelence to the original code. Ownership of the code is always considered public domain under MIT.
 
-### Solution Ranking 0..9
+### Solution Ranking 0..9 (if it has one)
 Soluitons have ranking that prefers simplicity over complex, Python over JavaScript, short over long, encapselated vs inline. More than 1 example might exist.
 
 ## basic setup
